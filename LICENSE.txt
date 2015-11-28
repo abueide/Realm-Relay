@@ -1,0 +1,7 @@
+Realm-Relay by Andrew Bueide is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Based on a work at https://github.com/AMPBEdu/Realm-Relay/.
+
+Credits:
+DeVoidCoder (https://github.com/DeVoidCoder) for creating original project.
+iObsidian/Alde (https://github.com/iObsidian) for maintaining and updating the project for a long while.
+AMPBEdu/Andrew Bueide (https://github.com/AMPBEdu) for currently maintaining and updating the project.
