@@ -17,5 +17,5 @@ Easy installation/updating with git:
   4. To update, type in "git pull origin"
 
 Any donations would be extremely appreciated!
-BTC: 18st8gMvHUMTpQvBbrX5koL7nF2Cc1FhtC
-Paypal: gratinmpb@gmail.com OR copy paste : https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5KRKE6B5GS29Y&lc=US&item_name=Realm%2dRelay%20Maintenance&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+  BTC: 18st8gMvHUMTpQvBbrX5koL7nF2Cc1FhtC
+  Paypal: gratinmpb@gmail.com OR copy paste : https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5KRKE6B5GS29Y&lc=US&item_name=Realm%2dRelay%20Maintenance&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
