@@ -83,7 +83,7 @@ public class PacketManager {
 			}
 			
 		} else if (packet instanceof HelloPacket) {
-			
+			HelloPacket hpkt = (HelloPacket) packet;
 			if (isUsingAutoCon) {
 				isUsingAutoCon = false;
 			}

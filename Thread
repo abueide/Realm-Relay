@@ -1,0 +1,26 @@
+[CENTER][B][SIZE=5]Realm Relay for v27.7.4+[/SIZE][/B][/CENTER]
+What is this? It's an updated version of a java proxy for rotmg. It works like K_Relay, except it's coded in java/javascript.
+Should you use it if your not a developer? Probably not, at the moment of posting K_Relay has more support/hacks
+This is mainly for developers looking to create scripts in javascript.
+
+[CENTER][B][SIZE=4]Contribute[/SIZE][/B][/CENTER]
+If you would like to contribute, you can do so by donating, or by contributing code using github.
+The source code can be found here : [url]https://github.com/AMPBEdu/Realm-Relay[/url]
+
+Donations would be very welcome :)
+BTC: 18st8gMvHUMTpQvBbrX5koL7nF2Cc1FhtC
+Paypal: [email]gratinmpb@gmail.com[/email] OR copy paste : [url]https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5KRKE6B5GS29Y&lc=US&item_name=Realm%2dRelay%20Maintenance&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted[/url]
+
+[CENTER][B][SIZE=4]Credits[/SIZE][/B][/CENTER]
+DeVoidCoder ([url]https://github.com/DeVoidCoder[/url]) - For creating the original project
+IObsidian/Alde ([url]https://github.com/iObsidian[/url]) - Maintaining and updating the project for a period of time
+Gratin/AMPBEdu ([url]https://github.com/AMPBEdu[/url]) - Currently maintaining and updating the project
+
+[CENTER][B][SIZE=4]Virus Scans[/SIZE][/B][/CENTER]
+[url]https://www.virustotal.com/en/file/a3833231477619b37a8a24fe1e4fc82c9c9bcfe4e1fea12cff18f6315a6dd533/analysis/1449398036/[/url]
+[url]https://virusscan.jotti.org/en-US/filescanjob/vp7eym1fi4[/url]
+
+[CENTER][B][SIZE=4]Download[/SIZE][/B]
+[ATTACH]303900[/ATTACH][/CENTER]
+Instructions: Extract contents of the zip folder to a folder named whatever you want (probably Realm Relay). Run Start_Win
+Check the github README.md for how to easily update to the latest version using git.
