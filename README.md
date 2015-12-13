@@ -18,6 +18,6 @@ Easy installation/updating with git:
 
 Any donations would be extremely appreciated!
 
-BTC: 18st8gMvHUMTpQvBbrX5koL7nF2Cc1FhtC
+BTC: 1KiADgX8ynH4K7Z7teC6GwjbKjb34i6vjs
 
-Paypal: gratinmpb@gmail.com OR copy paste : https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5KRKE6B5GS29Y&lc=US&item_name=Realm%2dRelay%20Maintenance&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+Paypal: gratinmpb@gmail.com OR <url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5KRKE6B5GS29Y&lc=US&item_name=Realm%2dRelay%20Maintenance&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</url>
